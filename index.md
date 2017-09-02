@@ -1,3 +1,7 @@
-#header
+this is a page
 
-[a relative link](_posts/test.md)
+#About me
+[linkedIn profile](https://www.linkedin.com/in/tim-herfurth/)
+
+ 1. mdm
+ 2. lkle
